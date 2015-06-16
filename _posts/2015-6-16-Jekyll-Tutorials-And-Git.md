@@ -5,9 +5,9 @@ title: Jekyll Tutorials and Git
 
 I wanted to blog about creating this mini blog. I found a great guide after following several tutorials and messing around in the command line, installing/configuring gems, and debugging runtime dependencies. Creating this blog is a great example of what coding is about: **A great exercise in problem solving.** I learned more every time that I failed to correctly deploy the site. I learned a great deal about:
 
-*SSH Keys
-*Markdown
-*Configuring gems
+* SSH Keys
+* Markdown
+* Configuring gems
 
  I hope my students understand the idea that in order to become great programmers, *developing a solution is just as important as the solution.* 
 
