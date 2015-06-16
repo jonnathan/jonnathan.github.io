@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is a wat to document my Summer 2015 Fellowship with Flatiron School
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an Algebra I teacher working in Dallas, Tx. I worked in industry before joining Teach For America in 2009. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ jonnathan.resendiz@flatironschool.com. ](mailto:jonnathan.resendiz@flatironschool.com)
