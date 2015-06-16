@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is a wat to document my Summer 2015 Fellowship with Flatiron School
+This blog is a way to document my Summer 2015 Fellowship with Flatiron School
 
 ### About Me
 
