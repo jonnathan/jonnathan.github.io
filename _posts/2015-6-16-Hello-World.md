@@ -7,6 +7,6 @@ I will be blogging this summer about my experience with Flatiron School. I will 
 
 Here's a resource I found pretty cool to format email really fast. It is called Markdown Here (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/markdown_here.png)
+![_config.yml]({{ site.baseurl }}/images/markdown_here)
 
 For a Markdown-Cheatsheet head over to this [repository](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub.
